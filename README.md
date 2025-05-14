@@ -107,5 +107,11 @@ npm run dev
 # Backend
 npm run dev
 ```
+## Screenshots
+![Landing](frontend/public/screenshots/LandingPage.png)
+![Dashboard](frontend/public/screenshots/Dashboard.png)
+![FieldMonitoringTab](frontend/public/screenshots/FieldMonitoringTab.png)
+![WeedManagemntTab](frontend/public/screenshots/WeedMangemntTab.png)
+
 
 
