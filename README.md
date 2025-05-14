@@ -65,14 +65,7 @@ RoboCrop is an innovative agricultural monitoring system that combines robotics,
 
 ## Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/RoboCrop.git
-cd RoboCrop
-```
-
-2. Install dependencies:
+1. Install dependencies:
 
 ```bash
 # Frontend
@@ -84,7 +77,7 @@ cd ../backend
 npm install
 ```
 
-3. Set up environment variables:
+2. Set up environment variables:
 
 ```bash
 # Frontend (.env)
@@ -98,7 +91,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 JWT_SECRET=your_jwt_secret
 ```
 
-4. Run the development servers:
+3. Run the development servers:
 
 ```bash
 # Frontend
