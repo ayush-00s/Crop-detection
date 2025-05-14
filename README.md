@@ -108,39 +108,4 @@ npm run dev
 npm run dev
 ```
 
-## Project Structure
 
-```
-RoboCrop/
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── contexts/
-│   │   ├── apis/
-│   │   └── layout/
-│   └── public/
-└── backend/
-    ├── controllers/
-    ├── models/
-    ├── routes/
-    └── middleware/
-```
-
-## Contributing
-
-We welcome contributions to RoboCrop! Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- OpenStreetMap for map data
-- Leaflet for map visualization
-- All contributors and supporters of the project
-
-## Contact
-
-For any queries or support, please reach out to [your-email@example.com]
