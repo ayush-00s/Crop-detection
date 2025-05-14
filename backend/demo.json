@@ -1,0 +1,25 @@
+{
+  "soil": [
+    { "moisture": 28, "temperature": 25, "humidity": 65 },
+    { "moisture": 35, "temperature": 22, "humidity": 68 },
+    { "moisture": 42, "temperature": 24, "humidity": 62 }
+  ],
+  "air": [
+    { "humidity": 60, "temperature": 27, "windSpeed": 12 },
+    { "humidity": 55, "temperature": 25, "windSpeed": 10 },
+    { "humidity": 50, "temperature": 26, "windSpeed": 8 }
+  ],
+  "weeds": [
+    [
+      { "type": "Dandelion", "location": "North-East field" },
+      { "type": "Crabgrass", "location": "South-West corner" }
+    ],
+    [
+      { "type": "Pigweed", "location": "Center of field" }
+    ],
+    [
+      { "type": "Nutsedge", "location": "North border" },
+      { "type": "Spurge", "location": "East fence" }
+    ]
+  ]
+}
